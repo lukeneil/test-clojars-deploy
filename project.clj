@@ -6,4 +6,7 @@
   :dependencies [[org.clojure/clojure "1.8.0"]]
   :main ^:skip-aot test-clojars-deploy.core
   :target-path "target/%s"
-  :profiles {:uberjar {:aot :all}})
+  :profiles {:uberjar {:aot :all}}
+  :repositories [["releases" {:url "https://repo.clojars.org/"
+                              :username :env
+                              :password :env}]])
