@@ -1,4 +1,4 @@
-(defproject test-clojars-deploy "0.1.1"
+(defproject test-clojars-deploy "0.1.2"
   :description "Sample application to test programmatic deployment to Clojars"
   :url "https://github.com/lukeneil/test-clojars-deploy"
   :license {:name "Eclipse Public License"
