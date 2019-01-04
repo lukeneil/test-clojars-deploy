@@ -10,7 +10,7 @@ Download from Clojars.
 
 FIXME: explanation
 
-    $ java -jar test-clojars-deploy-0.1.2-standalone.jar [args]
+    $ java -jar test-clojars-deploy-0.1.3-standalone.jar [args]
 
 ## Options
 
